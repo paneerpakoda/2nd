@@ -1,0 +1,190 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+span{
+    text-decoration: underline;
+}
+
+hr{
+    width: 5%;
+    border-style: dotted none none none;
+    border-color: #d4d4d4;
+    border-width: 8px;
+    margin: 69px auto;
+}
+
+
+p{
+    line-height: 2;
+}
+
+h1{
+    margin-top: 100px;
+    margin-bottom: 45px;
+    font-family: 'Yomogi', cursive;
+    font-size: 4.5em;
+    color: #53B8BB;
+    text-shadow: 1px 1px rgb(66, 65, 65);
+}
+
+h2{
+    font-family: 'Montserrat', cursive;
+    font-weight: bold;
+    font-size: 2em;
+    color: #66BFBF;
+}
+
+
+h3{
+    font-family: 'Montserrat', cursive;
+    color: #11999E;
+}
+
+.desc{
+    width: 50%;
+    margin: auto;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.mountain{
+    margin-top: 5em;
+}
+
+.birds1{
+    width: 5%;
+    position: absolute;
+    left: 12.5rem;
+    top: 4.35rem;
+}
+
+.birdshadow1{
+    width: 5%;
+    position: absolute;
+    left: 12.6rem;
+    top: 4.45rem;
+}
+
+.birds2{
+    width: 5%;
+    position: absolute;
+    right: 25rem;
+    top: 18rem;
+}
+
+.birdshadow2{
+    width: 5%;
+    position: absolute;
+    right: 24.9rem;
+    top: 18.1rem;
+}
+
+.topcloud{
+    position: absolute;
+    top : 3.125rem;
+    right: 12rem;
+}
+
+.bottomcloud{
+    position: absolute;
+    left: 12rem;
+    bottom: 18.75rem;
+}
+
+.bottom-container{
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color: rgb(101, 191, 191);
+    line-height: 1;
+}
+
+.contact-me{
+    margin: 20px auto;
+    padding-bottom: 40px;
+    line-height: 2;
+    width: 50%;
+}
+
+.footer-link{
+    color: #1c7f83;
+    font-family: 'Montserrat', cursive;
+    font-weight: bolder;
+    padding: 50px;
+}
+
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+.last{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    font-family: 'Merriweather', serif;
+}
+
+.des{
+    font-weight: normal;
+    font-size: 1.6em;
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 70px auto 100px auto;
+    text-align: left;
+}
+
+.pencil{
+    width: 20%;
+    float: left;
+    margin-right: 3em;
+}
+
+.chillies{
+    width: 20%;
+    float: right;
+    margin-left: 3em;
+}
+
+.BUTTON_AFT {
+    background: #5CE5E5;
+    background-image: -webkit-linear-gradient(top, #5CE5E5, #4E9191);
+    background-image: -moz-linear-gradient(top, #5CE5E5, #4E9191);
+    background-image: -ms-linear-gradient(top, #5CE5E5, #4E9191);
+    background-image: -o-linear-gradient(top, #5CE5E5, #4E9191);
+    background-image: -webkit-gradient(to bottom, #5CE5E5, #4E9191);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', cursive;
+    font-weight: normal;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_AFT:hover {
+    background: #4D9B9B;
+    border: solid #66BFBF 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+ }
